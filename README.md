@@ -444,13 +444,11 @@
 #### OAuth
 
 - Videos: 
-   - [ntroduction to OAuth 2.0 and OpenID Connect ](https://www.youtube.com/watch?v=GyCL8AJUhww)
-
--  Useful links: 
-   - [OAuth 2.0](https://oauth.net/2/) 
-   - [OAuth.com - OAuth 2.0 Servers](https://www.oauth.com/) 
+   - [Introduction to OAuth 2.0 and OpenID Connect ](https://www.youtube.com/watch?v=GyCL8AJUhww)
 
 -  Documentation: 
+   - [OAuth 2.0](https://oauth.net/2/) 
+   - [OAuth.com - OAuth 2.0 Servers](https://www.oauth.com/) 
    - [OWIN OAuth 2.0 Authorization Server](https://docs.microsoft.com/en-us/aspnet/aspnet/overview/owin-and-katana/owin-oauth-20-authorization-server)
 
 - Books:
