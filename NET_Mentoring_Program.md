@@ -1,11 +1,12 @@
 <a href="https://www.itechart.by/"><img src="https://jobs.tut.by/employer-logo/1044984.png" title="iTechartLogo" alt="iTechartLogo"></a>
 # .NET Mentoring Program
 
-Materials for each topic include videos, links to articles, titles of related books.
-Next topics are going to be discussed:
+> Materials for each topic include videos, links to articles, documentation, titles of related books.
+
+*Table of contents:*
 
 - [.NET](#net)
-   - [.NET Core / .NET Framework difference](#net-core-net-framework-difference)
+   - [.NET Core / .NET Framework difference](#net-core--net-framework-difference)
    - [.NET Standard /.NET Framework compatibility](#net-standard-net-framework-compatibility)
 - [C#](#c)
    - [Exceptions](#exceptions)
@@ -70,10 +71,6 @@ Next topics are going to be discussed:
 ---
 
 ## C#
-
-- [Exceptions](#exceptions)
-- [Collections](#collections)
-- [Generics](#generics)
 
 
 - Books:
