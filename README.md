@@ -723,9 +723,7 @@
    - [Service-oriented architecture](https://en.wikipedia.org/wiki/Service-oriented_architecture) 
    - [Microservices vs SOA - Know The Difference](https://www.leanix.net/en/blog/microservices-vs-soa) 
    - [What are microservices?](https://microservices.io/) 
-
--  Documentation: 
-   - [Microservices vs. SOA — Is There Any Difference at All?](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/)
+   - [Microservices vs. SOA — Is There Any Difference at All?](https://medium.com/@kikchee/microservices-vs-soa-is-there-any-difference-at-all-2a1e3b66e1be)
 
 - Books:
    -  Microservices Patterns: With examples in Java, by Chris Richardson
