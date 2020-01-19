@@ -52,7 +52,7 @@ Next topics are going to be discussed:
 
 - Videos: 
    - [.NET Core vs .NET Framework - What's the difference?](https://www.youtube.com/watch?v=79UWvR734wI) 
-   - [Оптимизации внутри .NET Core](https://www.youtube.com/watch?v=-tNeYjRNJtY) 
+   - [Оптимизации внутри .NET Core](https://www.youtube.com/watch?v=n3-j_sTtGb0) 
 
 -  Documentation: 
    - [Choose between .NET Core and .NET Framework for server apps](https://docs.microsoft.com/en-us/dotnet/standard/choosing-core-framework-server)
