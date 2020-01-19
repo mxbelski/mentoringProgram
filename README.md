@@ -858,7 +858,6 @@
 
 -  Useful links: 
    - [Digital signature](https://en.wikipedia.org/wiki/Digital_signature) 
-   - [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) 
 
 
 ---
