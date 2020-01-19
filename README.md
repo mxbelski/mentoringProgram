@@ -432,7 +432,7 @@
    - [Построение SSO на примере Identity Server 4.0 (.NET Core 2.0)](https://www.youtube.com/watch?v=6Y7Glw6NzLM)
    - [IdentityServer4: New & Improved for ASP.NET Core](https://www.youtube.com/watch?v=YXdJ2HLAOdE)
 
--  Useful links: 
+-  Documentation: 
    - [IdentityServer4](http://docs.identityserver.io/en/latest/) 
 
 ### Auth Types
