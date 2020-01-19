@@ -636,7 +636,7 @@
    - [Abstract Factory Design Pattern](https://www.youtube.com/watch?v=xbjAsdAK4xQ&list=PLhkg-R66TRTV1-mDPLQ1HL7Wk9dGRBgSd&index=9)
 
 -  Useful links: 
-   - [Abstract Factory Design Pattern](http://www.blackwasp.co.uk/AbstractFactory.aspxv)
+   - [Abstract Factory Design Pattern](http://www.blackwasp.co.uk/AbstractFactory.aspx)
 
 #### Factory Method
 
