@@ -923,7 +923,7 @@
 - Videos: 
    - [Messaging and Microservices](https://www.youtube.com/watch?v=rXi5CLjIQ9k) 
 
--  Documentation: 
+-  Books: 
    - [.NET Microservices. Architecture for Containerized .NET Applications](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/)
 
 
